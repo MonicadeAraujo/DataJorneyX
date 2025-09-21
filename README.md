@@ -1,5 +1,3 @@
-Update README.md
-
 **SentiClick: Análise de Segmentação Dinâmica de Clientes**
 
 Este projeto, chamado SentiClick, é uma solução analítica desenvolvida para a TOTVS, focada em resolver o problema da segmentação estática de clientes. Ele permite que a empresa entenda o comportamento dos seus clientes de forma dinâmica, ajudando a ajustar estratégias de atendimento, retenção e expansão de receita.
@@ -59,12 +57,6 @@ A SentiClick permite que a TOTVS personalize suas estratégias para cada um dess
 ---
 
 **5. Conclusão**
-
-Com certeza! A parte da conclusão pode ser ajustada para refletir um tom mais focado no aprendizado e desenvolvimento de competências. Aqui está a nova versão:
-
----
-
-### **5. Conclusão**
 
 A jornada de desenvolvimento da SentiClick foi uma oportunidade valiosa de aplicar e aprofundar diversas competências. Este projeto não apenas transformou dados em inteligência de negócio, mas também solidificou habilidades cruciais, como a **capacidade de resolver problemas complexos**, a **análise crítica de dados de múltiplas fontes**, e o **domínio de técnicas de pré-processamento e modelagem estatística**. Ao lidar com os desafios do mundo real, como o tratamento de dados faltantes e a validação estatística de modelos, colocamos em prática o conhecimento teórico, consolidando um aprendizado essencial para a carreira. O resultado final, a SentiClick, é a prova de que a teoria, quando aplicada pode gerar soluções de alto impacto.
 
