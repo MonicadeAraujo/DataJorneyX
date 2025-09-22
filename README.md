@@ -62,6 +62,7 @@ A jornada de desenvolvimento da SentiClick foi uma oportunidade valiosa de aplic
 
 ---
 Time DataJorneyX
+
 Janaina de Souza Silva
 Jaqueline Andrade Bidoia 
 Julia Silva de Oliveira 
