@@ -60,3 +60,12 @@ A SentiClick permite que a TOTVS personalize suas estratégias para cada um dess
 
 A jornada de desenvolvimento da SentiClick foi uma oportunidade valiosa de aplicar e aprofundar diversas competências. Este projeto não apenas transformou dados em inteligência de negócio, mas também solidificou habilidades cruciais, como a **capacidade de resolver problemas complexos**, a **análise crítica de dados de múltiplas fontes**, e o **domínio de técnicas de pré-processamento e modelagem estatística**. Ao lidar com os desafios do mundo real, como o tratamento de dados faltantes e a validação estatística de modelos, colocamos em prática o conhecimento teórico, consolidando um aprendizado essencial para a carreira. O resultado final, a SentiClick, é a prova de que a teoria, quando aplicada pode gerar soluções de alto impacto.
 
+---
+Time DataJorneyX
+Janaina de Souza Silva
+Jaqueline Andrade Bidoia 
+Julia Silva de Oliveira 
+Monica de Araujo 
+Sofia Mesquita 
+
+
